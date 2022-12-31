@@ -4,10 +4,11 @@
       <h3>这是一个使用vuejs构建的网页</h3>
       <br>
 
-      <p>本质是 2021 年底制作 Scratch 项目「嗨跨年！」使用 Vue.js 的重置版</p>
+      <p>本质是 2022 年底制作 Scratch 项目「嗨新年！」使用 Vue.js 构建</p>
       <br>
       
       <footer>(c) 2022 飓枫.  <a href="https://fiee.wtdown.top"> 博客</a> </footer>
+        <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
     </div>
   </div>
 </template>
