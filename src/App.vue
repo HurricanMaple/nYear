@@ -9,9 +9,8 @@ import Header from './components/Header.vue'
       <Header />
 
       <nav>
-        <RouterLink to="/">倒計時</RouterLink>
-        <RouterLink to="/lives">2023 跨年直播</RouterLink>
-        <RouterLink to="/about">關於</RouterLink>
+        <RouterLink to="/">倒计时</RouterLink>
+        <RouterLink to="/about">关于</RouterLink>
 
       </nav>
     </div>
