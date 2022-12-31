@@ -7,7 +7,7 @@
       <p>本质是 2021 年底制作 Scratch 项目「嗨跨年！」使用 Vue.js 的重置版</p>
       <br>
       
-      <footer>(c) 2022 BobYang. 本項目在 <a href="https://fiee.wtdown.top">Github</a> 博客</footer>
+      <footer>(c) 2022 飓枫.  <a href="https://fiee.wtdown.top"> 博客</a> </footer>
     </div>
   </div>
 </template>
