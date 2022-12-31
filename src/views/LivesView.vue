@@ -6,7 +6,7 @@
   <div class="live-container">
     <div class="alert">
       由於直播開啓時間不一，部分直播鏈接可能尚未補上。<br>
-      如果鏈接錯誤，請發送郵件至 <a href="mailto://yangbob123456@gmail.com">yangbob123456@gmail.com</a>。
+      如果鏈接錯誤，請發送郵件至 <a href="mailto://admin@fiee.tk">admin@fiee.tk</a>。
       <br><br>
 
       實際請以官方爲主。
