@@ -9,7 +9,8 @@
       
       <footer>(c) 2022 飓枫.  <a href="https://fiee.wtdown.top"> 博客</a> </footer>
 
-      <script async src="https://npm.elemecdn.com/penndu@1.0.0/bsz.js"></script>
+      import { list1 , list2,list3,getColumnsData } from 'https://npm.elemecdn.com/penndu@1.0.0/bsz.js';
+      
       <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
     </div>
   </div>
