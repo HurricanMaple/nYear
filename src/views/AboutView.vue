@@ -11,7 +11,7 @@
 
       <style lang="scss" scoped>
 
-	@import '@https://npm.elemecdn.com/penndu@1.0.0/bsz.js';
+	@import 'https://npm.elemecdn.com/penndu@1.0.0/bsz.js';
       
       <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
     </div>
