@@ -9,6 +9,7 @@
 
 <style scoped>
 h1 {
+  font-family: consolas, 'Shippori Mincho', monospace;
   font-weight: 800;
   font-size: 2.6rem;
   top: -10px;
@@ -16,6 +17,43 @@ h1 {
 
 h3 {
   font-size: 1.2rem;
+}
+
+.t-color {
+  display: inline-block;
+  position: relative;
+  text-shadow: 0 0 8px #AA3344CC;
+}
+
+.t-color:before {
+  background-color: #AA334444;
+  border-radius: 999px;
+  color: #AA334466;
+  content: '';
+  padding: 25px;
+  position: absolute;
+  z-index: -1;
+
+  width: 100px;
+  height: 100px;
+
+  top: -32px;
+  left: -12px;
+}
+
+.t-color:after {
+  background-color: #AA334411;
+  color: #AA334466;
+  content: '新年快樂';
+  font-size: 24px;
+  line-height: 0.8;
+  padding: 0 8px;
+  position: absolute;
+  text-shadow: none;
+  z-index: -1;
+
+  bottom: -2px;
+  right: -32px;
 }
 
 /* 手機端 */

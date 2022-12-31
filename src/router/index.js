@@ -18,9 +18,9 @@ const router = createRouter({
       component: () => import('../views/AboutView.vue')
     },
     {
-      path: '/live',
-      name: 'live',
-      component: () => import('../views/LiveView.vue')
+      path: '/lives',
+      name: 'lives',
+      component: () => import('../views/LivesView.vue')
     }
   ]
 });
