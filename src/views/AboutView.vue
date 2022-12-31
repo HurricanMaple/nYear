@@ -1,13 +1,13 @@
 <template>
   <div class="about">
     <div>
-      <h3>這裏是一個整理跨年資訊的站點。</h3>
+      <h3>这是一个使用vuejs构建的网页</h3>
       <br>
 
-      <p>本質上是我在 2021 年底製作的 Scratch 項目「嗨跨年！」使用 Vue.js 的重置版，旨在讓用戶在跨年時能快速找到自己想看的節目。</p>
+      <p>本质是 2021 年底制作 Scratch 项目「嗨跨年！」使用 Vue.js 的重置版</p>
       <br>
       
-      <footer>(c) 2022 BobYang. 本項目在 <a href="https://github.com/wuxian425/nYear">Github</a> 上開放源始碼。</footer>
+      <footer>(c) 2022 BobYang. 本項目在 <a href="https://fiee.wtdown.top">Github</a> 博客</footer>
     </div>
   </div>
 </template>
