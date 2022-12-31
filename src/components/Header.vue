@@ -2,7 +2,7 @@
   <div class="greetings">
     <h1 class="t-color">nYear</h1>
     <h3>
-      當新的一年將至，何必出外受寒，宅在家跨年豈不美哉？<br>
+      当新的一年将至，何必出外受寒，宅在家跨年岂不美哉？<br>
     </h3>
   </div>
 </template>
@@ -44,7 +44,7 @@ h3 {
 .t-color:after {
   background-color: #AA334411;
   color: #AA334466;
-  content: '新年快樂';
+  content: '新年快乐';
   font-size: 24px;
   line-height: 0.8;
   padding: 0 8px;
