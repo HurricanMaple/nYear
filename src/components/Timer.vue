@@ -23,22 +23,22 @@
       if (hour <= 0) {
         if (min <= 0) {
           if (sec <= 0) {
-            var str = thisYear + "已成為過去式，讓我們展望未來，讓" + nextYear + "成為美好的一年。";
+            var str = thisYear + "已成过去式，让我们展望未来，让" + nextYear + "成为美好的一年。";
             document.getElementById('timer').innerHTML = str;
           } else {
-            var str = "餘下" + sec + "秒";
+            var str = "剩下" + sec + "秒";
             document.getElementById('timer').innerHTML = str;
           };
         } else {
-          var str = "餘下" + min + "分鐘" + sec + "秒。";
+          var str = "剩下" + min + "分钟" + sec + "秒。";
           document.getElementById('timer').innerHTML = str;
         };
       } else {
-        var str = "餘下" + hour + "小時" + min + "分鐘" + sec + "秒。";
+        var str = "剩下" + hour + "小时" + min + "分钟" + sec + "秒。";
         document.getElementById('timer').innerHTML = str;
       };
     } else {
-      var str = "餘下" + day + "天" + hour + "小時" + min + "分鐘" + sec + "秒。";
+      var str = "剩下" + day + "天" + hour + "小时" + min + "分钟" + sec + "秒。";
       document.getElementById('timer').innerHTML = str;
     };
   }
