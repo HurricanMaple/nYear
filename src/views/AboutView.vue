@@ -36,13 +36,4 @@
       justify-content: center;
     }
   }
-  
-  <style scoped>
-
-/*注意语法格式，不能缺少 ; */
-
-/*也要注意引入的css路径是否正确*/
-
-@import 'https://npm.elemecdn.com/penndu@1.0.0/bsz.js';
-
-</style>
+  </style>	
