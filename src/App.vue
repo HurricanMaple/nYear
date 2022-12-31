@@ -11,6 +11,7 @@ import Header from './components/Header.vue'
       <nav>
         <RouterLink to="/">倒计时</RouterLink>
         <RouterLink to="/about">关于</RouterLink>
+        <RouterLink to="/lives">2023 跨年直播</RouterLink>
 
       </nav>
     </div>
